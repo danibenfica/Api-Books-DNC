@@ -2,7 +2,7 @@
   "name": "api-books-dnc",
   "version": "1.0.0",
   "description": "Esta é uma API de cadastro de livros que permite a gestão de informações sobre livros, incluindo id, título, número de páginas, ISBN e editora.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"

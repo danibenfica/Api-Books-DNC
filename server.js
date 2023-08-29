@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express();
-const Livro = require('./models/Livro')
+const Livro = require('./models/livro.js')
 const cors = require('cors')
 const mongoose = require('mongoose')
 require('dotenv').config()
