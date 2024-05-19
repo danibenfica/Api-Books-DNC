@@ -198,7 +198,6 @@ DELETE /livros/3
 
 ## Conclusão
 
-Esta documentação fornece uma visão geral da estrutura e funcionamento da API de cadastro de livros. Não se esqueça de configurar a conexão com o Mongo ntes de iniciar o servidor.
-É uma aplicação bem simples e foi desenvolvida par ao desafio 5 do curso da DNC!
+Esta documentação fornece uma visão geral da estrutura e funcionamento da API de cadastro de livros. Não se esqueça de configurar a conexão com o Mongo antes de iniciar o servidor.
 
 Caso tenha dúvidas ou sugestões de como posso melhorar meu projeto, não hesite em entrar em contato! :heart:
